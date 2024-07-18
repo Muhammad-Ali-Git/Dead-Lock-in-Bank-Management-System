@@ -1,0 +1,14 @@
+/home/pi/Documents/C# Codes/bin/Debug/net8.0/C# Codes
+/home/pi/Documents/C# Codes/bin/Debug/net8.0/C# Codes.deps.json
+/home/pi/Documents/C# Codes/bin/Debug/net8.0/C# Codes.runtimeconfig.json
+/home/pi/Documents/C# Codes/bin/Debug/net8.0/C# Codes.dll
+/home/pi/Documents/C# Codes/bin/Debug/net8.0/C# Codes.pdb
+/home/pi/Documents/C# Codes/obj/Debug/net8.0/C# Codes.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Documents/C# Codes/obj/Debug/net8.0/C# Codes.AssemblyInfoInputs.cache
+/home/pi/Documents/C# Codes/obj/Debug/net8.0/C# Codes.AssemblyInfo.cs
+/home/pi/Documents/C# Codes/obj/Debug/net8.0/C# Codes.csproj.CoreCompileInputs.cache
+/home/pi/Documents/C# Codes/obj/Debug/net8.0/C# Codes.dll
+/home/pi/Documents/C# Codes/obj/Debug/net8.0/refint/C# Codes.dll
+/home/pi/Documents/C# Codes/obj/Debug/net8.0/C# Codes.pdb
+/home/pi/Documents/C# Codes/obj/Debug/net8.0/C# Codes.genruntimeconfig.cache
+/home/pi/Documents/C# Codes/obj/Debug/net8.0/ref/C# Codes.dll

@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/pi/Documents/C# Projects/Threading/Deadlock in Multi-Threading/Dead-Lock in Bank Management System/C# Codes.csproj": {}
+  },
+  "projects": {
+    "/home/pi/Documents/C# Projects/Threading/Deadlock in Multi-Threading/Dead-Lock in Bank Management System/C# Codes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pi/Documents/C# Projects/Threading/Deadlock in Multi-Threading/Dead-Lock in Bank Management System/C# Codes.csproj",
+        "projectName": "C# Codes",
+        "projectPath": "/home/pi/Documents/C# Projects/Threading/Deadlock in Multi-Threading/Dead-Lock in Bank Management System/C# Codes.csproj",
+        "packagesPath": "/home/pi/.nuget/packages/",
+        "outputPath": "/home/pi/Documents/C# Projects/Threading/Deadlock in Multi-Threading/Dead-Lock in Bank Management System/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "http://localhost:3000/api/packages/administrator/nuget/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

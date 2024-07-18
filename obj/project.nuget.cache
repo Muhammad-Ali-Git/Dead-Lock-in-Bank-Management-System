@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q6cPC3syGY0=",
+  "success": true,
+  "projectFilePath": "/home/pi/Documents/C# Projects/Threading/Deadlock in Multi-Threading/Dead-Lock in Bank Management System/C# Codes.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://localhost:3000/api/packages/administrator/nuget/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
